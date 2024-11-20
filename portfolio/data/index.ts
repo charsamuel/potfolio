@@ -183,8 +183,8 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Fullstack Developer ",
+    desc: "Assisted in the development of a web-based platform using React and Django, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
@@ -192,14 +192,14 @@ export const workExperience = [
     id: 2,
     title: "MERN Developer/Frontend Developer",
     desc: "Designed and developed mern web apps and frontend applications platforms with MERN/Nextjs and responsive uis.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2", 
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Freelance Deveveloper",
     desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2", 
     thumbnail: "/exp3.svg",
   },
   {
