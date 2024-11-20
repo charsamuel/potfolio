@@ -73,7 +73,7 @@ export const projects = [
   {
     id: 1,
     title: "Spaville",
-    des: "Spaville is a modern web application that offers users a seamless and intuitive experience for exploring and booking spa services online.",
+    des: "This is a modern web application that offers users a seamless and intuitive experience for exploring and booking spa services online.",
     img: "/spamain.png",
     iconLists: [
       "/laravel.png",
@@ -101,7 +101,7 @@ export const projects = [
     des: "3D Portfolio is an interactive showcase built with JavaScript and 3D technology. Explore projects in a dynamic, immersive environment that highlights creativity and technical skills..",
     img: "/threeglobe.svg",
     iconLists: ["/threejs.svg", "tail.svg"],
-    link: "https://3d-portfolio-five-eosin.vercel.app",
+    link: "https://justademo.here",
   },
   {
     id: 3,
@@ -191,13 +191,13 @@ export const workExperience = [
   {
     id: 2,
     title: "MERN Developer/Frontend Developer",
-    desc: "Designed and developed mern web apps and frontend applications platforms with MERN and responsive uis.",
+    desc: "Designed and developed mern web apps and frontend applications platforms with MERN/Nextjs and responsive uis.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
+    title: "Freelance Deveveloper",
     desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",

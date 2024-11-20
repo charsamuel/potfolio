@@ -22,7 +22,6 @@
     "debug": "^4.3.6",
     "fast-glob": "^3.3.2",
     "framer-motion": "^11.0.25",
-    "fsevents": "^2.3.3",
     "lucide-react": "^0.365.0",
     "mini-svg-data-uri": "^1.4.4",
     "next": "14.1.4",
